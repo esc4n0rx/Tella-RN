@@ -23,4 +23,9 @@ export const Colors = {
     tabIconDefault: '#9BA1A6',
     tabIconSelected: tintColorDark,
   },
+  // Cores do gradiente do onboarding
+  gradient: {
+    start: '#E91E63', // Rosa
+    end: '#00BCD4',   // Azul ciano
+  },
 };
